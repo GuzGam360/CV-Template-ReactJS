@@ -4,8 +4,8 @@
     "occupation": "FrontEnd Jr Developer",
     "description": "Focused on develop safe and functional apps",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "Hi!! I'm Giovanni a young that loves practice, learn and having fun but what i like the most is to learn. i've almost a year and 2 months developing FrontEnd apps. In a future would like to learn a bit of BackEnd Dev and get in to Mobile Dev.",
+    "contactmessage": "This form still work in progress if you wanna contact me please send me an e-mail",
     "email": "gioguzgam@gmail.com",
     "phone": "+52 811-914-5653",
     "address": {
@@ -19,7 +19,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "*",
+        "url": "#",
         "className": "fa fa-facebook"
       },
       {
@@ -45,7 +45,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Favorite Technologies",
     "education": [
       {
         "school": "Universidad Autonoma De Nuevo León",
