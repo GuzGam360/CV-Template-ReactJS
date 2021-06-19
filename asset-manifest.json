@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CV-Template-ReactJS/static/css/main.bab0b925.chunk.css",
-    "main.js": "/CV-Template-ReactJS/static/js/main.8e350f85.chunk.js",
-    "main.js.map": "/CV-Template-ReactJS/static/js/main.8e350f85.chunk.js.map",
+    "main.css": "/CV-Template-ReactJS/static/css/main.afd7172b.chunk.css",
+    "main.js": "/CV-Template-ReactJS/static/js/main.ca558832.chunk.js",
+    "main.js.map": "/CV-Template-ReactJS/static/js/main.ca558832.chunk.js.map",
     "runtime-main.js": "/CV-Template-ReactJS/static/js/runtime-main.1c9c5bdf.js",
     "runtime-main.js.map": "/CV-Template-ReactJS/static/js/runtime-main.1c9c5bdf.js.map",
-    "static/js/2.a10b9388.chunk.js": "/CV-Template-ReactJS/static/js/2.a10b9388.chunk.js",
-    "static/js/2.a10b9388.chunk.js.map": "/CV-Template-ReactJS/static/js/2.a10b9388.chunk.js.map",
+    "static/js/2.56bb4a81.chunk.js": "/CV-Template-ReactJS/static/js/2.56bb4a81.chunk.js",
+    "static/js/2.56bb4a81.chunk.js.map": "/CV-Template-ReactJS/static/js/2.56bb4a81.chunk.js.map",
     "index.html": "/CV-Template-ReactJS/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/CV-Template-ReactJS/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.a10b9388.chunk.js.LICENSE.txt": "/CV-Template-ReactJS/static/js/2.a10b9388.chunk.js.LICENSE.txt"
+    "static/css/main.afd7172b.chunk.css.map": "/CV-Template-ReactJS/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.56bb4a81.chunk.js.LICENSE.txt": "/CV-Template-ReactJS/static/js/2.56bb4a81.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c9c5bdf.js",
-    "static/js/2.a10b9388.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.8e350f85.chunk.js"
+    "static/js/2.56bb4a81.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.ca558832.chunk.js"
   ]
 }
