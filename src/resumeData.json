@@ -76,6 +76,10 @@
     ],
     "skills": [
       {
+        "name": "JavaScript",
+        "level": "80%%"
+      },
+      {
         "name": "Git",
         "level": "60%"
       },
@@ -85,7 +89,7 @@
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "HTML5",
@@ -93,10 +97,22 @@
       },
       {
         "name": "NodeJs",
-        "level": "50%"
+        "level": "40%"
       },
       {
         "name": "MongoDB",
+        "level": "40%"
+      },
+      {
+        "name": "Redux",
+        "level": "50%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      },
+      {
+        "name": "MaterialUI",
         "level": "50%"
       }
     ]
